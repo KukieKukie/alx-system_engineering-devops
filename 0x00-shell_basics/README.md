@@ -1,1 +1,1 @@
-This has commands to use in shell basics
+moving around shell tasks
