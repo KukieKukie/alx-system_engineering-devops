@@ -1,1 +1,1 @@
-solutions to shell tasks
+switch current user
